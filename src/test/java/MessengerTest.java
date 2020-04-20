@@ -66,7 +66,7 @@ public class MessengerTest {
     }
 
     @Test
-    public void sendingMsgForNullEmainTest() {
+    public void sendingMsgForNullEmailTest() {
         client = spy(Client.class);
         mailServer = spy(MailServer.class);
         template = spy(Template.class);
