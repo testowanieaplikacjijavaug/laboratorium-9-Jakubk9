@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CarTest">
+  <component name="RunManager" selected="JUnit.FriendshipsMongoTest">
     <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-9-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
@@ -73,8 +73,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FriendshipsMongoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-9-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FriendshipsMongoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FriendshipsMongoTest" />
         <item itemvalue="JUnit.CarTest" />
         <item itemvalue="JUnit.CarTest.throwExpectionTest" />
         <item itemvalue="JUnit.CarTest.stubTemperatureTest" />
@@ -91,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587368886879</updated>
-      <workItem from="1587368888524" duration="4429000" />
+      <workItem from="1587368888524" duration="6140000" />
     </task>
     <servers />
   </component>
