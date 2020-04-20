@@ -44,12 +44,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RaceResultServiceEasyMockTest.sendTest">
-    <configuration name="RaceResultServiceEasyMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EasyMockVSMockitoTest.exampleEasyMockTest">
+    <configuration name="EasyMockVSMockitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-9-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RaceResultServiceEasyMockTest" />
+      <option name="MAIN_CLASS_NAME" value="EasyMockVSMockitoTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyMockVSMockitoTest.exampleEasyMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-9-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EasyMockVSMockitoTest" />
+      <option name="METHOD_NAME" value="exampleEasyMockTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyMockVSMockitoTest.expampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-9-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EasyMockVSMockitoTest" />
+      <option name="METHOD_NAME" value="expampleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyMockVSMockitoTest.testVerification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-9-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EasyMockVSMockitoTest" />
+      <option name="METHOD_NAME" value="testVerification" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,42 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceResultServiceEasyMockTest.testSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="laboratorium-9-Jakubk9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RaceResultServiceEasyMockTest" />
-      <option name="METHOD_NAME" value="testSend" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RaceResultServiceMockitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="laboratorium-9-Jakubk9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RaceResultServiceMockitoTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RaceResultServiceMockitoTest.sendTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="laboratorium-9-Jakubk9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RaceResultServiceMockitoTest" />
-      <option name="METHOD_NAME" value="sendTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EasyMockVSMockitoTest.exampleEasyMockTest" />
+        <item itemvalue="JUnit.EasyMockVSMockitoTest.expampleTest" />
+        <item itemvalue="JUnit.EasyMockVSMockitoTest" />
+        <item itemvalue="JUnit.EasyMockVSMockitoTest.testVerification" />
         <item itemvalue="JUnit.RaceResultServiceEasyMockTest.sendTest" />
-        <item itemvalue="JUnit.RaceResultServiceEasyMockTest" />
-        <item itemvalue="JUnit.RaceResultServiceMockitoTest.sendTest" />
-        <item itemvalue="JUnit.RaceResultServiceMockitoTest" />
-        <item itemvalue="JUnit.RaceResultServiceEasyMockTest.testSend" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587368886879</updated>
-      <workItem from="1587368888524" duration="15496000" />
+      <workItem from="1587368888524" duration="17919000" />
     </task>
     <servers />
   </component>

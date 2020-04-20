@@ -26,7 +26,7 @@ public class RaceResultServiceEasyMockTest {
         replay(client);
 
         raceResultService.send(message);
-        
+
         verify(client);
     }
 
