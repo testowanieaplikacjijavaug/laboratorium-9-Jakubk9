@@ -11,7 +11,6 @@ import java.util.List;
 
 import static org.assertj.core.api.Assertions.*;
 
-import static org.easymock.EasyMock.expect;
 import static org.mockito.Mockito.*;
 
 @ExtendWith(MockitoExtension.class)

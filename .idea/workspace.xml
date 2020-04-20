@@ -30,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,22 +44,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FriendshipsMongoTest">
+  <component name="RunManager" selected="JUnit.MessengerTest">
     <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-9-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CarTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarTest.stubTemperatureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="laboratorium-9-Jakubk9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CarTest" />
-      <option name="METHOD_NAME" value="stubTemperatureTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,12 +73,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MessengerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-9-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessengerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessengerTest.sendMsgTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-9-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessengerTest" />
+      <option name="METHOD_NAME" value="sendMsgTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MessengerTest" />
+        <item itemvalue="JUnit.MessengerTest.sendMsgTest" />
         <item itemvalue="JUnit.FriendshipsMongoTest" />
         <item itemvalue="JUnit.CarTest" />
         <item itemvalue="JUnit.CarTest.throwExpectionTest" />
-        <item itemvalue="JUnit.CarTest.stubTemperatureTest" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587368886879</updated>
-      <workItem from="1587368888524" duration="6140000" />
+      <workItem from="1587368888524" duration="10326000" />
     </task>
     <servers />
   </component>
